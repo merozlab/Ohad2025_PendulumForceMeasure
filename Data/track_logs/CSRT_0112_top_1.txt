@@ -1,0 +1,13 @@
+3086, 2129, 46, 78, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\112\top\1\DSC_5737.JPG, 23-05 19:20:04, 0, Start 
+3086.0, 2129.0, 46.0, 78.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\112\top\1\DSC_5737.JPG, 23-05 19:20:04, 0, Auto
+3087.0, 2129.0, 46.0, 78.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\112\top\1\DSC_5738.JPG, 23-05 19:20:34, 0, Auto
+3117.0, 2125.0, 48.0, 81.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\112\top\1\DSC_5739.JPG, 23-05 19:21:04, 0, Auto
+3157.0, 2133.0, 47.0, 80.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\112\top\1\DSC_5740.JPG, 23-05 19:21:34, 0, Auto
+3192.0, 2129.0, 46.0, 78.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\112\top\1\DSC_5741.JPG, 23-05 19:22:04, 0, Auto
+3225.0, 2134.0, 47.0, 80.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\112\top\1\DSC_5742.JPG, 23-05 19:22:34, 0, Auto
+3254.0, 2132.0, 48.0, 81.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\112\top\1\DSC_5743.JPG, 23-05 19:23:04, 0, Auto
+3288.0, 2129.0, 48.0, 81.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\112\top\1\DSC_5744.JPG, 23-05 19:23:34, 0, Auto
+3317.0, 2119.0, 51.0, 86.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\112\top\1\DSC_5745.JPG, 23-05 19:24:04, 0, Auto
+3349.0, 2113.0, 51.0, 86.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\112\top\1\DSC_5746.JPG, 23-05 19:24:34, 0, Auto
+3367.0, 2132.0, 51.0, 86.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\112\top\1\DSC_5747.JPG, 23-05 19:25:04, 0, Auto
+3368.0, 2140.0, 53.0, 90.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\112\top\1\DSC_5748.JPG, 23-05 19:25:34, 0, Auto

@@ -1,0 +1,16 @@
+2733, 2120, 93, 77, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6271.JPG, 04-12 07:27:16, 0, Start 
+2732.94, 2119.99, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6271.JPG, 04-12 07:27:16, 0, Auto
+2732.93, 2119.94, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6272.JPG, 04-12 07:27:46, 0, Auto
+2732.87, 2119.91, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6273.JPG, 04-12 07:28:16, 0, Auto
+2732.84, 2119.91, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6274.JPG, 04-12 07:28:46, 0, Auto
+2732.83, 2119.83, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6275.JPG, 04-12 07:29:16, 0, Auto
+2732.78, 2119.82, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6276.JPG, 04-12 07:29:46, 0, Auto
+2732.66, 2119.79, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6277.JPG, 04-12 07:30:16, 0, Auto
+2732.44, 2119.73, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6278.JPG, 04-12 07:30:46, 0, Auto
+2733.24, 2119.76, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6279.JPG, 04-12 07:31:16, 0, Auto
+2733.22, 2119.68, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6280.JPG, 04-12 07:31:46, 0, Auto
+2733.07, 2119.62, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6281.JPG, 04-12 07:32:16, 0, Auto
+2732.13, 2118.73, 94.86, 78.54, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6282.JPG, 04-12 07:32:46, 0, Auto
+2732.93, 2119.88, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6283.JPG, 04-12 07:33:16, 0, Auto
+2732.91, 2119.82, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6284.JPG, 04-12 07:33:46, 0, Auto
+2732.83, 2119.71, 93.0, 77.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\95\side\2\DSC_6285.JPG, 04-12 07:34:16, 0, Auto

@@ -1,0 +1,14 @@
+3194, 1663, 116, 107, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5460.JPG, 08-11 05:59:44, 0, Start 
+3194.61, 1662.94, 116.0, 107.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5460.JPG, 08-11 05:59:44, 0, Auto
+3195.08, 1662.53, 116.0, 107.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5461.JPG, 08-11 06:00:14, 0, Auto
+3193.03, 1660.83, 120.69, 111.32, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5462.JPG, 08-11 06:00:44, 0, Auto
+3193.07, 1663.09, 120.69, 111.32, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5463.JPG, 08-11 06:01:14, 0, Auto
+3201.99, 1673.81, 118.32, 109.14, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5464.JPG, 08-11 06:01:44, 0, Auto
+3209.05, 1677.67, 123.1, 113.55, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5465.JPG, 08-11 06:02:14, 0, Auto
+3220.07, 1687.74, 116.0, 107.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5466.JPG, 08-11 06:02:44, 0, Auto
+3225.1, 1686.67, 116.0, 107.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5467.JPG, 08-11 06:03:14, 0, Auto
+3232.39, 1690.46, 116.0, 107.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5468.JPG, 08-11 06:03:44, 0, Auto
+3241.54, 1692.98, 113.73, 104.9, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5469.JPG, 08-11 06:04:14, 0, Auto
+3247.89, 1694.7, 116.0, 107.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5470.JPG, 08-11 06:04:44, 0, Auto
+3203.11, 1653.13, 116.0, 107.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5471.JPG, 08-11 06:05:14, 0, Auto
+3196.79, 1663.61, 116.0, 107.0, C:\Users\Amir\Documents\PHD\Experiments\Force Measurements\Exp2_Pendulum\Measurements\82\top\1\DSC_5472.JPG, 08-11 06:05:44, 0, Auto
