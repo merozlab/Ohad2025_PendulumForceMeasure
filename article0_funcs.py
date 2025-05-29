@@ -79,13 +79,10 @@ class Event:
         if view == 'side':
             self.frm0_side = int(df.at[i,'First_contact_frame']) # first contact frame (starts from 1)
             self.frm_dec_side = int(df.at[i,'Slip/Twine_frame']) # frame of twine_state/slip
-            self.event_label = df.at[i,'Event Label'] # event label
 
         if view == 'top':
             self.frm0_top = int(df.at[i,'First_contact_frame']) # first contact frame (starts from 1)
             self.frm_dec_top = int(df.at[i,'Slip/Twine_frame']) # frame of twine_state/slip
-            self.L_contact2stemtip_cm = self.p.pix2cm_t * float(df.at[i,
-                'Contact_distance_from_stem_tip(pixels)']) # contact distance from stem tip at initial contact time
             self.twine_state = float(df.at[i,'Twine_status']) # twine_state/slip
 
 
