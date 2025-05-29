@@ -1,8 +1,8 @@
 # Repo_article0: Force measurement setup code repository
 
-* Use article0_notebook to obtain figures 4,5,6 (will output to test_Figures).
+* Use article0_notebook to get force trajectories for example trajectories. Raw images included on Zenodo.
 
-* Exp2_supplementary_measurements_events_xl.xlsx has misc. information on each plant (and event).
+* example_events.xlsx has misc. information on each example event.
 
 * 4 3D-print files are included in the 'Lens add-on' folder.
 
